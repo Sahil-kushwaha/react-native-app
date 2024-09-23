@@ -1,0 +1,3 @@
+[submodule "rolldice-react-app"]
+	path = rolldice-react-app
+	url = git@github.com:Sahil-kushwaha/rolldice-react-app.git
